@@ -1,6 +1,6 @@
 # Personal Details
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
-<h3 align="center">A passionate Web developer & Network Support Engineer from Saharanpur UP</h3>
+<h3 align="center">A passionate Web developer & Network Support Engineer from Saharanpur UP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaysaini6487&label=Profile%20views&color=0e75b6&style=flat" alt="vinaysaini6487" /> </p>
 
