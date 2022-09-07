@@ -1,10 +1,12 @@
-# Personal Deatails
+# Personal Details
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A passionate Web developer & Network Support Engineer from Saharanpur UP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaysaini6487&label=Profile%20views&color=0e75b6&style=flat" alt="vinaysaini6487" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vinaysaini6487" target="blank"><img src="https://img.shields.io/twitter/follow/vinaysaini6487?logo=twitter&style=for-the-badge" alt="vinaysaini6487" /></a> </p>
+
+- 🔭 I’m currently working on **Linux & CyberSecurity**
 
 - 🌱 I’m currently learning **DevOps & Cyber Security**
 
