@@ -10,7 +10,7 @@ Strong engineering professional with a Diploma in Computer Science & Engg. from 
 
 - 🔭 I’m currently working on **Linux & CyberSecurity**
 
-- 🌱 I’m currently learning **DevOps & Cyber Security**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **sainivinay1999@gmail.com**
 
