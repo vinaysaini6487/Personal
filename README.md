@@ -1,6 +1,8 @@
 # Personal Details
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
-<h3 align="center">A passionate Web developer & Network Support Engineer from Saharanpur UP.</h3>
+<h3 align="center">Experienced Wordpress Developer with a demonstrated history of working in the Computer software industry.
+Strong in design and integration with intuitive problem-solving skills. Proficient in WordPress, PHP, Core Java, MySQL,  Canva, Linux, Networking and Software testing.
+Strong engineering professional with a Diploma in Computer Science & Engg. from Government Polytechnic Saharanpur U.P. & Graduation in B.A. from CCS University Meerut UP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaysaini6487&label=Profile%20views&color=0e75b6&style=flat" alt="vinaysaini6487" /> </p>
 
