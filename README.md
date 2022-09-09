@@ -18,7 +18,7 @@ Strong engineering professional with a Diploma in Computer Science & Engg. from 
 <p align="left">
 <a href="https://twitter.com/vinaysaini6487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinaysaini6487" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sainivinay1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sainivinay1999" height="30" width="40" /></a>
-<a href="https://fb.com/sainivinay1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sainivinay6487" height="30" width="40" /></a>
+<a href="https://fb.com/sainivinay6487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sainivinay1999" height="30" width="40" /></a>
 <a href="https://instagram.com/vinaysaini6487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinaysaini6487" height="30" width="40" /></a>
 </p>
 
